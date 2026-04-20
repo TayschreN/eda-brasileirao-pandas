@@ -4,6 +4,11 @@ Este projeto realiza uma **Análise Exploratória de Dados (EDA)** do Campeonato
 
 ---
 
+![Imagens](img/PercentualEmpates.png)
+![Imagens](img/ValorElencos.png)
+![Imagens](img/MédiaGolsporJogo.png)
+
+---
 ## Objetivo
 
 Explorar os dados do Brasileirão para responder perguntas como:
